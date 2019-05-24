@@ -27,5 +27,5 @@ dependencies {
 
     ///// SWATT ///// https://mvnrepository.com/artifact/xyz.swatt/swatt
     compile group: 'xyz.swatt', name: 'swatt', version: '1.12.0'
-    aspect "xyz.swatt:swatt:1.12.0"
+    aspects "xyz.swatt:swatt:1.12.0"
 }
