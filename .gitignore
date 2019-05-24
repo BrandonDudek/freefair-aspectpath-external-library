@@ -1,0 +1,7 @@
+.idea
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/*.iml
+target
+test-output
+/gradle/wrapper/gradle-wrapper.jar
